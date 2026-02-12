@@ -1,4 +1,4 @@
-# Java Assignment 3 - Student Result Management System
+# Student Result Management System
 
 **Student:** Your Name  
 **Roll No:** 2401010001
